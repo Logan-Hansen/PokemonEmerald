@@ -8,4 +8,6 @@ It builds the following ROM:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
+For tutorials, see [tutorials](https://github.com/pret/pokeemerald/wiki/Tutorials)
+
 For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
